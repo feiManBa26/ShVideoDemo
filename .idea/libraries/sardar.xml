@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sardar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/shvideolibrary/libs/sardar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

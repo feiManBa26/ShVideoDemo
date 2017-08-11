@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\android-sdk-windows\.android\build-cache\c5a5c85c85cea01afcd21b2835f7136f5c7115fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\ShVideoDemo\app\build\intermediates\pre-dexed\debug\classes_36f22dd005a857b69809db2904028d7b2e06db47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\android-sdk-windows\.android\build-cache\525e0b247a615ac7472dbc417f0031af196f6bf8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\ShVideoDemo\app\build\intermediates\pre-dexed\debug\classes_5929630458a3189bc47bc48cd15d9cabacf6d61a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ShVideoDemo\shvideolibrary\build\intermediates\bundles\default\libs\sardar.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="62108a217fe2e50ef5ec5361191f9dd554e998c3">
+        <dex dex="D:\ShVideoDemo\app\build\intermediates\pre-dexed\debug\sardar_acec92dae01018f9d3b85132372292ca0407cd4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\android-sdk-windows\.android\build-cache\dc4a5b1f947431c8b4f4d2c6f0f5f6d31565b5b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\ShVideoDemo\app\build\intermediates\pre-dexed\debug\classes_ef771d7b46719742ef873aef28f225bdc072fe3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\android-sdk-windows\.android\build-cache\0f8f320ca33c49fb083e9b4b5dc6208a2a6060dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\ShVideoDemo\app\build\intermediates\pre-dexed\debug\classes_204e243f9b8aba039982a9b68f87605d26b4da61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\android-sdk-windows\.android\build-cache\86fefe5cf0353340ac320dd474ca22d2fff158a8\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\ShVideoDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0f40f8d007db8eb0b7cae263952930abc5e6bcff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\ProgramFiles\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\ShVideoDemo\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_a594bdd003236405e3e10c2c8b582830431b7397.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\android-sdk-windows\.android\build-cache\15e81193ff0b262a37d66a324305b5963bd97103\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\ShVideoDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_badbe7ce9be54bcf24643a65f43322bca09a0d5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\android-sdk-windows\.android\build-cache\15e81193ff0b262a37d66a324305b5963bd97103\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\ShVideoDemo\app\build\intermediates\pre-dexed\debug\classes_6ce2f3db6b202080daecb674a81bbe7f5d2e7376.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\android-sdk-windows\.android\build-cache\cd5d679ff43b12e8ac128e1a72418d1beaa1fb66\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\ShVideoDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_cbee72d7d9ab383be91462242582e9a468f683de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\android-sdk-windows\.android\build-cache\2ab71a16b4434bc27bd016f54de9e126b08fc4a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\ShVideoDemo\app\build\intermediates\pre-dexed\debug\classes_21d632676b34708ed93ea1db1f65c41b44096384.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\android-sdk-windows\.android\build-cache\00d039468b4a9e05dcc62419caa9194eddbdb787\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\ShVideoDemo\app\build\intermediates\pre-dexed\debug\classes_555f06baa053ed81d4be5a84b556a883cad803b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\android-sdk-windows\.android\build-cache\00d039468b4a9e05dcc62419caa9194eddbdb787\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\ShVideoDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4f493de3393274975c84abf801ca57ace1254a70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\android-sdk-windows\.android\build-cache\86fefe5cf0353340ac320dd474ca22d2fff158a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\ShVideoDemo\app\build\intermediates\pre-dexed\debug\classes_f160e1745c78624ae3fd024d9b4a9107b0a92b45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ShVideoDemo\shvideolibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="058db4213dc6468c08db9c4f5ccbf3c0411171fa">
+        <dex dex="D:\ShVideoDemo\app\build\intermediates\pre-dexed\debug\classes_9e6be2d9327a2d117a25eb8b4c4d5719ccf5dd9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\android-sdk-windows\.android\build-cache\cd5d679ff43b12e8ac128e1a72418d1beaa1fb66\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\ShVideoDemo\app\build\intermediates\pre-dexed\debug\classes_e256db8d7cb1fc6540737a3bf44c1936e8e20356.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\android-sdk-windows\.android\build-cache\2ab71a16b4434bc27bd016f54de9e126b08fc4a8\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\ShVideoDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7c3c09816b68494258a7ecf111c70fd58de572a1.jar" />
+    </item>
+
+</items>
